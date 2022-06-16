@@ -28,6 +28,8 @@ $ rails s
 - GitHub: [@farouqdaif1](https://github.com/farouqdaif1)
 - LinkedIn: [@Farouq Daif ](https://www.linkedin.com/in/farouqdaif/)
 
+## link for react project
+https://github.com/farouqdaif1/hello-react-front-end/pull/1
 
 ## 🤝 Contributing
 
